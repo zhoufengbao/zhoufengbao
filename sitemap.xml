@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhoufengbao.com/post/hot/</loc>
+    <lastmod>2017-07-23T17:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhoufengbao.com/post/wuhan/</loc>
+    <lastmod>2017-07-16T11:23:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhoufengbao.com/post/spg/</loc>
+    <lastmod>2017-07-03T13:29:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://zhoufengbao.com/post/cz/</loc>
+    <lastmod>2017-06-05T13:27:54+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://zhoufengbao.com/post/outdoor/</loc>
     <lastmod>2017-05-18T22:45:45+08:00</lastmod>
   </url>
@@ -28,13 +48,13 @@
   
   <url>
     <loc>http://zhoufengbao.com/post/</loc>
-    <lastmod>2017-05-18T22:45:45+08:00</lastmod>
+    <lastmod>2017-07-23T17:01:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://zhoufengbao.com/</loc>
-    <lastmod>2017-05-18T22:45:45+08:00</lastmod>
+    <lastmod>2017-07-23T17:01:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   

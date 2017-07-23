@@ -6,10 +6,46 @@
     <description>Recent content in Posts on Rockie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 May 2017 22:45:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 17:01:27 +0800</lastBuildDate>
     
 	<atom:link href="http://zhoufengbao.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>so hot</title>
+      <link>http://zhoufengbao.com/post/hot/</link>
+      <pubDate>Sun, 23 Jul 2017 17:01:27 +0800</pubDate>
+      
+      <guid>http://zhoufengbao.com/post/hot/</guid>
+      <description>Miss Much</description>
+    </item>
+    
+    <item>
+      <title>Wuhan</title>
+      <link>http://zhoufengbao.com/post/wuhan/</link>
+      <pubDate>Sun, 16 Jul 2017 11:23:35 +0800</pubDate>
+      
+      <guid>http://zhoufengbao.com/post/wuhan/</guid>
+      <description>一个熟悉而陌生的城市</description>
+    </item>
+    
+    <item>
+      <title>spg</title>
+      <link>http://zhoufengbao.com/post/spg/</link>
+      <pubDate>Mon, 03 Jul 2017 13:29:13 +0800</pubDate>
+      
+      <guid>http://zhoufengbao.com/post/spg/</guid>
+      <description>spg</description>
+    </item>
+    
+    <item>
+      <title>Bai Yun</title>
+      <link>http://zhoufengbao.com/post/cz/</link>
+      <pubDate>Mon, 05 Jun 2017 13:27:54 +0800</pubDate>
+      
+      <guid>http://zhoufengbao.com/post/cz/</guid>
+      <description>Baiyun</description>
+    </item>
     
     <item>
       <title>outdoor</title>
